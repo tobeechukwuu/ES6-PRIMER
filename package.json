@@ -1,0 +1,27 @@
+{
+    "name": "es6-primer",
+    "version": "1.0.0",
+    "description": "Javascript and Version Control Primer in NodeJS Environment",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tobeechukwuu/es6-primer.git"
+    },
+    "keywords": [
+        "Git",
+        "Javascript",
+        "Node",
+        "Book-examples"
+    ],
+    "author": "Tobechukwu",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tobeechukwuu/es6-primer/issues"
+    },
+    "homepage": "https://github.com/tobeechukwuu/es6-primer#readme"
+
+}
